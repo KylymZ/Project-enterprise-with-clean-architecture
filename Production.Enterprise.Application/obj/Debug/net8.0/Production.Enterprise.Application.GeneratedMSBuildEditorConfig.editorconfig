@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Production.Enterprise.Application
-build_property.ProjectDir = C:\Users\egens\Desktop\Проект\Production\Production.Enterprise\Production.Enterprise.Application\
+build_property.ProjectDir = C:\Kanykei's\Project-enterprise-with-clean-architecture\Production.Enterprise.Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
