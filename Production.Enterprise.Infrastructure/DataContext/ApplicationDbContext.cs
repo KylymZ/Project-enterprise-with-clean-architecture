@@ -21,7 +21,7 @@ namespace Production.Enterprise.Infrastructure.DataContext
 
         public DbSet<BudgetsData> Budgets { get; set; }
         public DbSet<MonthsData> Months { get; set; }
-        public  DbSet<YearsData> Years { get; set; }
+        public DbSet<YearsData> Years { get; set; }
         public DbSet<EmployeesData> Employees { get; set; }
         public DbSet<FinishedProductsData> FinishedProducts { get; set; }
         public DbSet<IngredientsData> Ingredients { get; set; }

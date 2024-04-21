@@ -1,6 +1,7 @@
 .vs/
 .git/
 .github/
+**/.nuget/
 
 Production.Enterprise.Api/obj/
 
