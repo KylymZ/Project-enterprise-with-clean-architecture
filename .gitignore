@@ -7,3 +7,9 @@ Production.Enterprise.Api/obj/
 Production.Enterprise.Grpc/obj/
 
 Production.Enterprise.Front/obj/
+
+Production.Enterprise.Domain/obj/
+
+Production.Enterprise.Infrastructure/obj/
+
+Production.Enterprise.Application/obj/
